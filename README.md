@@ -1,0 +1,1 @@
+# Memory-and-criticality-in-Reservoir-Computing
